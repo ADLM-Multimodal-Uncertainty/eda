@@ -1,9 +1,0 @@
-,value
-images,2298
-patients,1373
-lesion_ids_raw,1641
-lesions_patient_lesion_key,1891
-lesions_with_multiple_images,361
-images_in_multi_image_lesions,768
-patients_with_multiple_lesions,355
-patients_with_multiple_diagnoses,179
