@@ -1,0 +1,18 @@
+# Dataset (public repo: never commit data)
+/data/*
+!/data/.gitkeep
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Papers and slides
+*.pdf
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+.env
