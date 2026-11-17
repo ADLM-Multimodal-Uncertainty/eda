@@ -1,0 +1,23 @@
+feature,effect_measure,assoc_known_values,assoc_of_missingness,missing_%
+biopsed,Cramer's V,0.801,0.0,0.0
+elevation,Cramer's V,0.53,0.112,0.1
+itch,Cramer's V,0.524,0.08,0.3
+grew,Cramer's V,0.508,0.461,20.5
+bleed,Cramer's V,0.5,0.037,0.3
+hurt,Cramer's V,0.38,0.034,0.4
+changed,Cramer's V,0.372,0.468,20.1
+region,Cramer's V,0.281,0.0,0.0
+age,epsilon^2,0.221,0.0,0.0
+smoke,Cramer's V,0.124,0.699,37.7
+pesticide,Cramer's V,0.113,0.699,37.7
+gender,Cramer's V,0.073,0.699,37.7
+background_father,Cramer's V,0.069,0.671,42.1
+skin_cancer_history,Cramer's V,0.046,0.699,37.7
+diameter_2,epsilon^2,0.035,0.699,37.7
+has_piped_water,Cramer's V,0.033,0.699,37.7
+has_sewage_system,Cramer's V,0.03,0.699,37.7
+diameter_1,epsilon^2,0.03,0.699,37.7
+fitspatrick,epsilon^2,0.02,0.699,37.7
+drink,Cramer's V,0.0,0.699,37.7
+cancer_history,Cramer's V,0.0,0.699,37.7
+background_mother,Cramer's V,0.0,0.675,41.8

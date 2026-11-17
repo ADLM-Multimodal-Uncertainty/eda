@@ -1,0 +1,22 @@
+feature,type,missing_%,assoc_known_values,tier,assoc_of_missingness,missingness_tracks_class
+elevation,binary,0.1,0.53,strong (>0.30),0.112,False
+itch,binary,0.3,0.524,strong (>0.30),0.08,False
+grew,binary,20.5,0.508,strong (>0.30),0.461,True
+bleed,binary,0.3,0.5,strong (>0.30),0.037,False
+hurt,binary,0.4,0.38,strong (>0.30),0.034,False
+changed,binary,20.1,0.372,strong (>0.30),0.468,True
+region,categorical,0.0,0.281,moderate (0.10-0.30),0.0,False
+age,numeric,0.0,0.221,moderate (0.10-0.30),0.0,False
+smoke,binary,37.7,0.124,moderate (0.10-0.30),0.699,True
+pesticide,binary,37.7,0.113,moderate (0.10-0.30),0.699,True
+gender,categorical,37.7,0.073,weak (<0.10),0.699,True
+background_father,categorical,42.1,0.069,weak (<0.10),0.671,True
+skin_cancer_history,binary,37.7,0.046,weak (<0.10),0.699,True
+diameter_2,numeric,37.7,0.035,weak (<0.10),0.699,True
+has_piped_water,binary,37.7,0.033,weak (<0.10),0.699,True
+has_sewage_system,binary,37.7,0.03,weak (<0.10),0.699,True
+diameter_1,numeric,37.7,0.03,weak (<0.10),0.699,True
+fitspatrick,numeric,37.7,0.02,weak (<0.10),0.699,True
+drink,binary,37.7,0.0,weak (<0.10),0.699,True
+cancer_history,binary,37.7,0.0,weak (<0.10),0.699,True
+background_mother,categorical,41.8,0.0,weak (<0.10),0.675,True

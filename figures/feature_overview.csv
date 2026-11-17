@@ -1,0 +1,23 @@
+feature,type,n_unique,missing_%,range_or_values
+smoke,binary,2,35.0,"False, True"
+drink,binary,2,35.0,"False, True"
+pesticide,binary,2,35.0,"False, True"
+skin_cancer_history,binary,2,35.0,"False, True"
+cancer_history,binary,2,35.0,"False, True"
+has_piped_water,binary,2,35.0,"False, True"
+has_sewage_system,binary,2,35.0,"False, True"
+itch,binary,2,0.3,"False, True"
+grew,binary,2,17.5,"False, True"
+hurt,binary,2,0.4,"False, True"
+changed,binary,2,17.2,"False, True"
+bleed,binary,2,0.3,"False, True"
+elevation,binary,2,0.1,"False, True"
+biopsed,binary,2,0.0,"False, True"
+gender,categorical,2,35.0,"FEMALE, MALE"
+region,categorical,14,0.0,"ABDOMEN, ARM, BACK, CHEST, EAR, FACE ..."
+background_father,categorical,12,39.7,"AUSTRIA, BRASIL, BRAZIL, CZECH, GERMANY, ISRAEL ..."
+background_mother,categorical,10,39.4,"BRAZIL, FRANCE, GERMANY, ITALY, NETHERLANDS, NORWAY ..."
+age,numeric,84,0.0,6 - 94
+diameter_1,numeric,42,35.0,0.0 - 100.0
+diameter_2,numeric,38,35.0,0.0 - 70.0
+fitspatrick,numeric,6,35.0,1.0 - 6.0
